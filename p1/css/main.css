@@ -1,0 +1,32 @@
+body {
+  background-color: #f3e5d8;
+  margin-top: 250px
+}
+h1 {
+  text-align: center;
+    text-shadow:1px 1px 2px black;
+
+}
+
+h2,h4 {
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+a {
+  color: #990000
+
+    }
+a:link {
+  text-decoration: none;
+}
+a:hover{
+  color: purple;
+  text-shadow: 2px 2px 4px #000000;
+}
+p {
+  color: black;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+}
