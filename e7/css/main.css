@@ -1,0 +1,26 @@
+body {
+  background-color:black;
+    margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: white;
+}
+h1 {
+  font-size: 75px;
+  text-align: center;
+  font-family:font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  text-align:center;
+}
+h3 {
+  font-size: 20px;
+    text-align: center;
+  }
+h4{
+  text-align: center;
+  }
+.intro{
+  color: grey;
+}
